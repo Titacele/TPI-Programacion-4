@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Paleta "diner": crema, tomate, mostaza y café. */
+@theme {
+  --color-crema: #fdf6ec;
+  --color-crema-oscuro: #f3e6d3;
+  --color-tomate: #d64933;
+  --color-tomate-oscuro: #b13a26;
+  --color-mostaza: #e9b44c;
+  --color-cafe: #3b2a20;
+  --color-cafe-suave: #7a6253;
+  --color-oliva: #4f7f45;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "DM Serif Display", Georgia, serif;
+}
+
+body {
+  @apply bg-crema text-cafe antialiased;
+}
