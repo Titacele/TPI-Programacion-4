@@ -5,9 +5,8 @@ Trabajo Práctico Integrador — **Programación 4** (Tecnicatura Universitaria 
 Sistema de pedidos de comida: los clientes recorren el catálogo, arman un carrito y confirman un pedido; el administrador gestiona categorías, productos, stock, pedidos y usuarios.
 
 - **Alumna:** María Celeste Reinaudo
-- **Repositorio:** https://github.com/USUARIO/food-store  <!-- reemplazar por la URL real -->
-- **Video de demostración:** https://LINK-AL-VIDEO  <!-- reemplazar por el link público -->
-
+- **Repositorio:** https://github.com/Titacele/TPI-Programacion-4
+- **Video de demostración:** https://youtu.be/JO_v6BhDwkQ
 ---
 
 ## Stack
